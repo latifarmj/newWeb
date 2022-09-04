@@ -1,0 +1,27 @@
+.banner {
+  background-image: url(img/jumbotron.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 15%;
+  color: #fffffe;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Open Sans', cursive;
+}
+
+p,
+a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.1rem;
+}
+
+
+.btn {
+  background-color: #f9bc60;
+  color: #4b4132;
+}
